@@ -1,0 +1,125 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+body{
+	background-color: #854A96;
+}
+
+h1{
+	text-align: center;
+	font-size:  60px;
+	color: white;
+	font-family: ;
+}
+
+h2{
+	color:#854A96;
+}
+
+.settings{
+	padding-right: 20px;
+	padding-top: 5px;
+}
+
+
+.picture1{
+	padding-top: 80px;
+}
+
+h3{
+	text-align: center;
+}
+p{
+	text-align: center;
+	color: white;
+	
+}
+
+.p1{
+	text-align: left;
+	text-align: justify;
+	padding-top: 30px;
+	
+}
+
+.p2{
+	text-align: right;
+	text-align: justify;
+	
+}
+
+.p3{
+	text-align: left;
+	text-align: justify;
+	padding-top: 30px;
+	
+}
+
+.p4{
+	text-align: right;
+	text-align: justify;
+	padding-top: 50px;
+}
+
+.p5{
+	text-align: left;
+	text-align: justify;
+	padding-top: 30px;
+	
+}
+
+h4{
+	color: white;
+	text-align: center;
+}
+
+.textbox1{
+	background-color:
+		rgba(255,255,255,0.20);
+border-radius: 15px;
+	
+	
+}
+
+.textbox2{
+	background-color:
+		rgba(255,255,255,0.20);
+border-radius: 15px;
+	
+}
+
+.textbox3{
+	background-color:
+		rgba(255,255,255,0.20);
+border-radius: 15px;
+	
+}
+
+.textbox4{
+	background-color:
+		rgba(255,255,255,0.20);
+border-radius: 15px;
+	
+}
+.textbox5{
+	background-color:
+		rgba(255,255,255,0.20);
+border-radius: 15px;
+	
+}
+
+.spacing{
+	padding: 20px;
+}
+
+.p6{
+	text-align: justify;
+}
+
+.container3{
+	padding: 10px; 
+}
+h3{
+	color: white;
+}
