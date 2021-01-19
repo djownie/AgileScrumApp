@@ -2,6 +2,7 @@
 /* CSS Document */
 
 
+
 body{
 	background-color: #854A96;
 }
@@ -10,7 +11,8 @@ h1{
 	text-align: center;
 	font-size:  60px;
 	color: white;
-	font-family: ;
+	font-family: 'Rubik', sans-serif;
+
 }
 
 h2{
@@ -122,4 +124,60 @@ border-radius: 15px;
 }
 h3{
 	color: white;
+	font-family: 'Rubik', sans-serif; 
+	font-size: 30px;
+}
+
+h7{
+	font-size: 25px;
+	color: white;
+	font-family: 'Rubik', sans-serif;
+	font-weight: bold;
+}
+
+.p8{
+	padding-top: 40px;
+	color: white;
+	font-family: 'Rubik', sans-serif;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+h6{
+	font-family: 'Rubik', sans-serif;
+	font-weight: bold;
+	font-size: 30px;
+	text-align: center;
+	color: white;
+	
+}
+
+
+.centeral{
+	text-align: center;
+	padding: 40px;
+}
+
+.p7	{
+	text-align: center;
+	
+}
+
+.p8{
+	text-align: center;
+	font-family: 'Rubik', sans-serif;
+	font-weight: bold;
+	font-size: 22px;
+	text-align: center;
+	color: white;
+	
+}
+
+.downs{
+	padding-top: 50px;
+	padding-bottom: 30px;
+}
+
+.home{
+	padding: 20px;
 }
